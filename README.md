@@ -88,11 +88,11 @@ The system is designed for **high adaptability and reuse**, making it suitable f
 
 Below are key references on best practices, architecture, and security considerations for enterprise Retrieval-Augmented Generation (RAG) systems:
 
-- **[Intelliarts Blog](https://intelliarts.com)** – *Best Practices for Enterprise RAG System Implementation*, November 2024.
-- **[Galileo Labs](https://galileo.ai)** – *Mastering RAG: How To Architect An Enterprise RAG System*, January 2024.
-- **[arXiv](https://arxiv.org)** – *RAG Does Not Work for Enterprises*, May 2024.
-- **[Protecto Blog](https://protecto.ai)** – *Scaling RAG: Architectural Considerations for Large Models and Knowledge Sources*, May 2024.
-- **[Akira AI Blog](https://akira.ai)** – *A Proactive Approach to RAG Application Security*, November 2024.
+- **[Intelliarts Blog](https://intelliarts.com/blog/enterprise-rag-system-best-practices/)** – *Best Practices for Enterprise RAG System Implementation*, November 2024.
+- **[Galileo Labs](https://www.galileo.ai/blog/mastering-rag-how-to-architect-an-enterprise-rag-system)** – *Mastering RAG: How To Architect An Enterprise RAG System*, January 2024.
+- **[arXiv](https://arxiv.org/abs/2406.04369)** – *RAG Does Not Work for Enterprises*, May 2024.
+- **[Protecto Blog](https://www.protecto.ai/blog/scaling-rag-architectural-considerations-large-models-knowledge-sources)** – *Scaling RAG: Architectural Considerations for Large Models and Knowledge Sources*, May 2024.
+- **[Akira AI Blog](https://www.akira.ai/blog/rag-application-security)** – *A Proactive Approach to RAG Application Security*, November 2024.
 
 These sources provide valuable insights into the challenges and methodologies for implementing RAG systems at an enterprise scale.
 
